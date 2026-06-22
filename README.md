@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Zonnty
 
-<!--
-**Zonnty/Zonnty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI agents & automations.
 
-Here are some ideas to get you started:
+Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• n8n
+• Python
+• Ollama
+• APIs
+
+Projects
+
+🚀 AI Daily Review
+🚀 Telegram AI Agent
+
+Goals
+
+• 30 AI Projects
+• First Clients
