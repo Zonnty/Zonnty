@@ -1,20 +1,28 @@
-👋 Hi, I'm Zonnty
+# 👋 Hi, I'm Zonnty
 
-Building AI agents & automations.
+Building AI agents and automations.
 
-Current Focus
+---
 
-• n8n
-• Python
-• Ollama
-• APIs
+## 🚀 Current Focus
 
-Projects
+- AI Agents
+- n8n
+- Ollama
+- Python
+- APIs
 
-🚀 AI Daily Review
-🚀 Telegram AI Agent
+---
 
-Goals
+## 📂 Featured Projects
 
-• 30 AI Projects
-• First Clients
+- AI Daily Review *(coming soon)*
+- Telegram AI Agent *(coming soon)*
+
+---
+
+## 🎯 Goals
+
+- Build 30 AI projects
+- Get first clients
+- Learn in public
